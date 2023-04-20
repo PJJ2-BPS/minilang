@@ -1,0 +1,16 @@
+{
+  "name": "bps-minilang",
+  "version": "1.0.0",
+  "description": "A small toy language for a school project.",
+  "main": "main.js",
+  "repository": "https://github.com/PJJ2-BPS/minilang",
+  "author": "PJJ2-BPS <131369996+PJJ2-BPS@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  },
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}

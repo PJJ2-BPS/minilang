@@ -1,0 +1,6 @@
+Factorial(x) =>
+    : y = x
+    : r = x
+    : Ey =>
+        : r = r*(y--)
+    : r
